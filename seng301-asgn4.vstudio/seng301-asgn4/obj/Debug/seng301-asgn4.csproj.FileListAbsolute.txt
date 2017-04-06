@@ -1,0 +1,7 @@
+C:\Users\loula\Desktop\seng301-asgn4.vstudio\seng301-asgn4\bin\Debug\seng301-asgn4.dll.config
+C:\Users\loula\Desktop\seng301-asgn4.vstudio\seng301-asgn4\bin\Debug\seng301-asgn4.dll
+C:\Users\loula\Desktop\seng301-asgn4.vstudio\seng301-asgn4\bin\Debug\seng301-asgn4.pdb
+C:\Users\loula\Desktop\seng301-asgn4.vstudio\seng301-asgn4\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\loula\Desktop\seng301-asgn4.vstudio\seng301-asgn4\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\loula\Desktop\seng301-asgn4.vstudio\seng301-asgn4\obj\Debug\seng301-asgn4.dll
+C:\Users\loula\Desktop\seng301-asgn4.vstudio\seng301-asgn4\obj\Debug\seng301-asgn4.pdb
